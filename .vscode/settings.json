@@ -1,5 +1,4 @@
 {
-  "terminal.integrated.cursorBlinking": true,
-  "code-runner.runInTerminal": true,
-  "python.terminal.activateEnvInCurrentTerminal": true
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }
